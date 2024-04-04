@@ -1,0 +1,33 @@
+C:\Users\hafez\source\repos\Course.LibraryManagement-master\LibraryManagement\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\hafez\source\repos\Course.LibraryManagement-master\LibraryManagement\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\hafez\source\repos\Course.LibraryManagement-master\LibraryManagement\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\hafez\source\repos\Course.LibraryManagement-master\LibraryManagement\bin\Debug\netcoreapp2.0\LibraryManagement.deps.json
+C:\Users\hafez\source\repos\Course.LibraryManagement-master\LibraryManagement\bin\Debug\netcoreapp2.0\LibraryManagement.runtimeconfig.json
+C:\Users\hafez\source\repos\Course.LibraryManagement-master\LibraryManagement\bin\Debug\netcoreapp2.0\LibraryManagement.runtimeconfig.dev.json
+C:\Users\hafez\source\repos\Course.LibraryManagement-master\LibraryManagement\bin\Debug\netcoreapp2.0\LibraryManagement.dll
+C:\Users\hafez\source\repos\Course.LibraryManagement-master\LibraryManagement\bin\Debug\netcoreapp2.0\LibraryManagement.pdb
+C:\Users\hafez\source\repos\Course.LibraryManagement-master\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\hafez\source\repos\Course.LibraryManagement-master\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hafez\source\repos\Course.LibraryManagement-master\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\hafez\source\repos\Course.LibraryManagement-master\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.AssemblyInfo.cs
+C:\Users\hafez\source\repos\Course.LibraryManagement-master\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\hafez\source\repos\Course.LibraryManagement-master\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.dll
+C:\Users\hafez\source\repos\Course.LibraryManagement-master\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.pdb
+C:\Users\hafez\source\repos\Course.LibraryManagement-master\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.genruntimeconfig.cache
+D:\ALLA repos\ALLA repos\Course.LibraryManagement-master\LibraryManagement\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\ALLA repos\ALLA repos\Course.LibraryManagement-master\LibraryManagement\bin\Debug\netcoreapp2.0\appsettings.json
+D:\ALLA repos\ALLA repos\Course.LibraryManagement-master\LibraryManagement\bin\Debug\netcoreapp2.0\bundleconfig.json
+D:\ALLA repos\ALLA repos\Course.LibraryManagement-master\LibraryManagement\bin\Debug\netcoreapp2.0\LibraryManagement.deps.json
+D:\ALLA repos\ALLA repos\Course.LibraryManagement-master\LibraryManagement\bin\Debug\netcoreapp2.0\LibraryManagement.runtimeconfig.json
+D:\ALLA repos\ALLA repos\Course.LibraryManagement-master\LibraryManagement\bin\Debug\netcoreapp2.0\LibraryManagement.runtimeconfig.dev.json
+D:\ALLA repos\ALLA repos\Course.LibraryManagement-master\LibraryManagement\bin\Debug\netcoreapp2.0\LibraryManagement.dll
+D:\ALLA repos\ALLA repos\Course.LibraryManagement-master\LibraryManagement\bin\Debug\netcoreapp2.0\LibraryManagement.pdb
+D:\ALLA repos\ALLA repos\Course.LibraryManagement-master\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.csproj.AssemblyReference.cache
+D:\ALLA repos\ALLA repos\Course.LibraryManagement-master\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALLA repos\ALLA repos\Course.LibraryManagement-master\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.AssemblyInfoInputs.cache
+D:\ALLA repos\ALLA repos\Course.LibraryManagement-master\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.AssemblyInfo.cs
+D:\ALLA repos\ALLA repos\Course.LibraryManagement-master\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.csproj.CoreCompileInputs.cache
+D:\ALLA repos\ALLA repos\Course.LibraryManagement-master\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.dll
+D:\ALLA repos\ALLA repos\Course.LibraryManagement-master\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.pdb
+D:\ALLA repos\ALLA repos\Course.LibraryManagement-master\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.genruntimeconfig.cache
+D:\ALLA repos\ALLA repos\Course.LibraryManagement-master\LibraryManagement\obj\Debug\netcoreapp2.0\LibraryManagement.sourcelink.json
